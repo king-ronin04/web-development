@@ -1,1 +1,6 @@
 # web-development
+- 👋 Hi, I’m @king-ronin04
+- 👀 I’m interested in Web Developement
+- 🌱 I’m currently learning ReactJs and NodeJs
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
